@@ -9,6 +9,12 @@ This project is a **historical practice** from my early stages in web developmen
 
 ---
 
+### Screenshot
+
+![](./img/Screenshot3.jpg)
+
+---
+
 ## 📋 Evolution & Context Note
 > ⚠️ **Note on my trajectory:** This repository is part of my **past projects** and does not represent my current modern capabilities in Fullstack development. At the time of this exercise, my goal was to master `position: absolute` and `transform` to handle complex visual layers. Today, these foundations allow me to build advanced interfaces in React, but I preserve this code in its original state as evidence of my learning curve.
 
