@@ -1,5 +1,8 @@
 # Business Blog Card: UI Component
 
+> [!Note]
+>> This repository contains a legacy project from my early days as a programmer
+
 This project is a **historical practice** from my early stages in web development. I keep it in my portfolio as a record of my technical trajectory, showing how I mastered CSS fundamentals before moving on to complex Fullstack architectures.
 
 ---
